@@ -1,4 +1,4 @@
-team,GP,W,L,OTL,PTS,xGF_pg,xGA_pg,score,power_rank
+team,GP,W,L,OTL,PTS,xGF_pg,xGA_pg,power_score,power_rank
 brazil,82,58,18,6,122,3.323,2.705,0.8764129248593664,1
 thailand,82,50,25,7,107,3.594,2.703,0.842314118629908,2
 pakistan,82,49,25,8,106,3.472,2.847,0.7724008208371874,3
